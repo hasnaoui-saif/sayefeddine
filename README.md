@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayefeddine
 - 👀 I’m interested in geeky talks
 - 🌱 I’m currently learning how to be a the best fit
-- 💞️ I’m looking to collaborate on making the world a better place for next generation
+- 💞️ I’m looking to collaborate on making the world a better place for the next generation
 - 📫 How to reach me hassnaoui.sayefeddine@gmail.com
 
 <!---
